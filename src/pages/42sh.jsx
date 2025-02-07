@@ -1,7 +1,7 @@
 export default function FortyTwoSh() {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-[#050b33] text-white">
-      <div className="w-100 h-100 rounded-full overflow-hidden shadow-lg mb-6">
+    <div className="flex items-center justify-center min-h-screen bg-amber-100 text-black">
+      <div className="w-100 h-100 overflow-hidden shadow-lg mb-6">
         <img
           src="/tcsh.jpg"
           alt="Photo de profil"
